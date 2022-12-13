@@ -1,0 +1,15 @@
+.h1 {
+    font-size: 60px;
+    font-weight: unset;
+    text-align: center!important;
+    font-family: cursive;
+    color: #bf0aa0;
+}
+
+.h3{
+        font-family: monospace;
+        font-size: 34px;
+        line-height: 39px;
+        color: salmon;
+        text-align: left;
+}

@@ -1,0 +1,26 @@
+.copyright{color: #a4a4a4;}
+
+.separater {
+    height: 2px;
+    width: 50px;
+    background-color: rgb(70, 136, 194);
+    border-radius: 3px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+a{text-decoration: none;}
+
+.float{position:absolute;
+right: 0%;}
+
+.bg-color1{background-color:#3c3c3c}
+
+.bg-color2{background-color:#333;}
+
+.bg-color3{background-color:#282828;}
+
+@media(max-width: 600px) {
+    .text-white{display: none;}
+    
+}

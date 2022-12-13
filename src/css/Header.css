@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    background-color: #fff;
+    box-shadow: 0 0 3px 0 rgb(0 0 0 / 22%);
+    width: 100%;
+    padding: 20px 0 0
+}
+
+.headerimg {
+    height: 65px;
+    width: 145px;
+}
+
+.nav_i {
+    margin-left: 20px;
+    color: #414141;
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 20px;
+}
+
+.nav_item {
+    position: absolute;
+    right: 70px;
+    list-style-type: none;
+}
+
+.nav_i:hover {
+    color: rgb(241, 4, 115) !important
+}
